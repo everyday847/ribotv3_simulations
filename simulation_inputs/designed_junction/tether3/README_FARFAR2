@@ -1,0 +1,1 @@
+rna_denovo.graphics.macosclangrelease -s start2.pdb -fasta target.fasta -minimize_rna true -nstruct 100 -secstruct_file secstruct -use_legacy_job_distributor -out:file:silent r2_tether_ext3.out
